@@ -1,5 +1,6 @@
 ---
 title: "test"
+permalink: /test/
 layout: post
 date:   2021-11-13
 categories: "learning jekyll"
